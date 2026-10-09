@@ -1,0 +1,81 @@
+{
+  "name": "temps",
+  "version": "v0.7.0",
+  "apikey": "547bbdc38bd641bef6645cd2c4bc613f",
+  "timezone": {
+    "url": "https://maps.googleapis.com/maps/api/timezone/json",
+    "apikey": "AIzaSyD7CnHeMDQV_XCXlimoPwiPSB_83Wfq7LE",
+    "offset": 0
+  },
+  "weather": {
+    "url": {
+      "actual": "http://api.openweathermap.org/data/2.5/weather?mode=json",
+      "daily": "http://api.openweathermap.org/data/2.5/forecast/daily?cnt=4&mode=json",
+      "hourly": "http://api.openweathermap.org/data/2.5/forecast?cnt=10&mode=json"
+    }
+  },
+  "location": {
+    "url": "https://maps.googleapis.com/maps/api/browserlocation/json"
+  },
+  "color": {
+    "error" : "#444444",
+    "list": ["#b1695a", "#DB9864", "#E3BB88", "#D0C7A8", "#B1C2A3", "#80BBB2", "#6D9E96", "#8F95A5", "#6F7685"]
+  },
+  "start": {
+    "city": "Berlin, DE",
+    "format": "metric",
+    "time": "HH:mm",
+    "interval": 300000
+  },
+  "random": {
+    "cities": [
+      "London, UK",
+      "Paris, FR",
+      "New York, US",
+      "Hawaii, US",
+      "Sydney, AU",
+      "Tokyo, JP",
+      "Berlin, DE",
+      "Los Angeles, US",
+      "Antarctis",
+      "Cape Town, ZA",
+      "Istanbul, TR",
+      "Baghdad, IQ",
+      "Kabul, AF",
+      "Buenos Aires, AR",
+      "Vienna, AT",
+      "Dhaka, BD",
+      "Brussels, BE",
+      "La Paz, BO",
+      "Rio de Janeiro, BR",
+      "Ottawa, CA",
+      "Beijing, CN",
+      "Havana, CU",
+      "Prague, CZ",
+      "Cairo, EG",
+      "Helsinki, FI",
+      "Athens, GR",
+      "Port-au-Prince, HT",
+      "Reykjavik, IS",
+      "New Delhi, IN",
+      "Jakarta, ID",
+      "Jerusalem, IL",
+      "Rome, IT",
+      "Seoul, KR",
+      "Ulaanbaatar, MN",
+      "Wellington, NZ",
+      "Moscow, RU",
+      "Madrid, SP",
+      "Tirana, AL",
+      "Algiers, DZ",
+      "Andorra la Vella, AD",
+      "Vatican City, VA",
+      "Caracas, VE",
+      "Abu Dhabi, AE",
+      "Kyiv, UA",
+      "Kampala, UG",
+      "Ankara, TR",
+      "Tunis, TN"
+    ]
+  }
+}
