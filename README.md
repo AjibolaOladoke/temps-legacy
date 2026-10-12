@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and temps-legacy is the ent
 
 ## Images
 
-[![temps-legacy](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![temps-legacy](images/preview.png)](https://github.com/Swift-Tech-Co/temps-legacy)
 
 ## Features
 
@@ -33,13 +33,13 @@ You can use the following shortcuts for easy usage of Temps:
 * <kbd>Cmd</kbd> + <kbd>G</kbd> Find your location
 * <kbd>Cmd</kbd> + <kbd>Q</kbd> Close application
 
-[![temps screenshot](assets/screenshot-overview.png)](https://www.swifttechco.com)
+[![temps screenshot](assets/screenshot-overview.png)](https://github.com/Swift-Tech-Co/temps-legacy)
 
 ## Development
 
 ### Run app
 
-1. Clone repo ```git clone https://www.swifttechco.com
+1. Clone repo ```git clone https://github.com/Swift-Tech-Co/temps-legacy
 2. Change to repo ```cd temps```
 3. ```npm install && npm start```
 
@@ -49,7 +49,7 @@ Builds app binaries for OS X, Linux, and Windows.
 
 ```npm run build```
 
-[![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://www.swifttechco.com)
+[![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/Swift-Tech-Co/temps-legacy)
 
 ## Download [![Github Releases (by Release)](https://img.shields.io/github/downloads/jackd248/temps/v0.7.0/total.svg?style=flat-square)]()
 
@@ -83,13 +83,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/temps-legacy
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [konradmichalik/temps-legacy](https://github.com/konradmichalik/temps-legacy) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
