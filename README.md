@@ -1,36 +1,12 @@
+# temps-legacy
+
+## What This Is
+
+We keep a working index for product and engineering, and temps-legacy is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
 
 ## Images
 
-[![temps-legacy](https://opengraph.githubassets.com/1/konradmichalik/temps-legacy)](https://www.swifttechco.com)
-
-<h1 align="center">
-<a href="https://www.swifttechco.com">
-</a><br/><br/>
-Temps
-<br/>
-<br/>
-</h1>
-
-<h4 align="center">A simple but smart weather app.</h4>
-<h5 align="center"></h5>
-
-<p align="center">
-  <a href="https://www.swifttechco.com"></a>
-  <a href="https://www.swifttechco.com"></a>
-  <a href="https://www.swifttechco.com" title="dependencies status"></a>
-  <a href="https://www.swifttechco.com" title="build status"></a>
-</p>
-
-> [!NOTE]
-> The original *legacy* project isn't maintained anymore.
-> 
-> But a new rewrite is available here: https://www.swifttechco.com 
-
-<hr/>
-
-> Temps is a modern and minimal menubar application based on Electron with actual weather information and forecast for Windows, Mac and Linux.
-
-[![temps screenshot](assets/screenshot.jpg)](https://www.swifttechco.com)
+[![temps-legacy](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Features
 
@@ -77,11 +53,11 @@ Builds app binaries for OS X, Linux, and Windows.
 
 ## Download [![Github Releases (by Release)](https://img.shields.io/github/downloads/jackd248/temps/v0.7.0/total.svg?style=flat-square)]()
 
-You can [download](https://www.swifttechco.com) the latest stable version of Temps for Windows, Mac OS and Linux. 
+You can download the latest stable version of Temps for Windows, Mac OS and Linux. 
 
 ### Instructions
 
-__You need a free API Key by [OpenWeatherMap](https://www.swifttechco.com) to fetch weather information.__
+__You need a free API Key by OpenWeatherMap to fetch weather information.__
 
 Because of this is a non-profit project, I'm not able to offer unlimited access to weather information by myself. 
 
@@ -103,14 +79,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [konradmichalik/temps-legacy](https://github.com/konradmichalik/temps-legacy) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
